@@ -11,7 +11,7 @@ Eğitim Süresi __180__ Saattir.
 Dersler __Pazartesi-Çarşamba__ günleri saat __19:30-22:30__ saatleri arasında __3__ ’er saat olarak __(haftada 6 saat)__ yapılacaktır.
 
 ## Eğitmen
-Kurs ____Gürbüz ASLAN__ tarafından verilmektedir.
+Kurs __Gürbüz ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
 Kursumuzun toplam ücreti KDV dahil __21.600__ TL’dir(Peşin ödemede __19.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __19.500__ TL’dir (peşin ödemede __17.800__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.

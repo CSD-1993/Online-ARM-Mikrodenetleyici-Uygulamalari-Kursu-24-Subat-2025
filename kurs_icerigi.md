@@ -47,5 +47,5 @@ Listede yer alan ders konuları içinde bazı değişiklikler (ekleme ve çıkar
 
 Ön koşul: C programlama dilinin yeterli düzeyde bilinmesi, temel düzeyde elektronik bilgisi.
 
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]( https://us06web.zoom.us/meeting/register/tZAscOqqrz8jHNf2ttNVhmfEoRaMyzZNiAhr)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us06web.zoom.us/meeting/register/tZIpcu2pqD8rHtf5AnixCz70hCiDWoLP4OSa#/registration)
 

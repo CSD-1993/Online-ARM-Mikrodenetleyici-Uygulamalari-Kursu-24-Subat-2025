@@ -1,8 +1,8 @@
-# Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-2-Eylül-2024
+# Online-ARM-Mikrodenetleyici-Uygulamalari-Kursu-3-Kasım-2024
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kursumuz `2 Eylül 2024` tarihinde başlayacaktır.
++ Kursumuz `3 Kasım 2024` tarihinde başlayacaktır.
 + Kursumuzun eğitmeni `Gürbüz Aslan`'dır.
 + Kursumuz gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler `Pazartesi, Çarşamba ` günleri `19:30 - 22:30` saatleri arasında yapılacaktır.

@@ -14,7 +14,7 @@ Dersler __Pazartesi-Çarşamba__ günleri saat __19:30-22:30__ saatleri arasınd
 Kurs __Gürbüz ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
-Kursumuzun toplam ücreti KDV dahil __21.600__ TL’dir(Peşin ödemede __19.500__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __19.500__ TL’dir (peşin ödemede __17.800__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil __29.500__ TL’dir(Peşin ödemede __26.000__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __26.000__ TL’dir (peşin ödemede __23.000__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 
 ## Kursa Kayıt
 
